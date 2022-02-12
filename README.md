@@ -4,7 +4,7 @@ During a crisis, there are often many people who want to help out but either don
 
 # How to Build
 Prerequisites:
-- Specify operating System it have been demonstrated to work 
+- It works on windows and mac, as long as they have androis studio and virtual emulator installed
 - JDK 16 or latest 
 - IntelliJ Idea, Android Studio, MS Access or Excel
 
