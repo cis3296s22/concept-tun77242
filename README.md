@@ -9,9 +9,9 @@ Prerequisites:
 - IntelliJ Idea, Android Studio, MS Access or Excel
 
 Edit the follwing instructions:
-- clone the code from the main branch
-- What target or file should be build
+- https://github.com/cis3296s22/concept-tun77242.git
+- The target was to make matches for the requests and availability, and include maps and in-app messaging if possible but the code so far only works to get information of users from different classes
 
 # How to Run and Test
-- After clicking run you should see Hello World! in a new window... 
+- After clicking run you should see a see that the methods get and print the information of the users 
 
